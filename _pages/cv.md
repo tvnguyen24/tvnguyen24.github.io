@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
+[Download a PDF copy of my CV here.](/files/NguyenCV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Economics, The Wharton School, University of Pennsylvania, 2025 – present
+* B.A. in Economics (Highest Honors) and B.A. in Mathematics (High Honors), Middlebury College, 2022
+  * *Summa cum laude*
 
-Work experience
+Research Fields
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Primary: Spatial/Environmental Economics
+* Secondary: IO, International Trade, Public
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Working Papers
+======
+* "The Responses of Retail Spending and Real Consumption to a Housing Wealth Shock: Evidence, Dynamics, and Potential Mechanisms" (2024)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Works in Progress
+======
+* "Pay-as-you-go Pensions in Spatial Equilibrium" (with Antoine Levy)
+
+Fellowships & Awards
+======
+* 2025 – 2030: Wharton Applied Economics PhD Fellowship, The Wharton School, University of Pennsylvania
+* 2020 – 2021: Jones Summer Research Fellowship, Department of Economics, Middlebury College
+
+Employment & Research Assistant Experience
+======
+* 2026 – present: Graduate Research Assistant, Arthur van Benthem, UPenn Wharton
+* 2025 – present: Graduate Research Assistant, Jessie Handbury and Ben Keys, UPenn Wharton
+* 2023 – 2025: Pre-doctoral Research Assistant, Antoine Levy, UC Berkeley Haas
+* 2022 – 2023: Analyst, Analysis Group
+* 2021 – 2022: Research Assistant, Raphaelle Gauvin-Coulombe, Middlebury College
+* 2021: Research Assistant, Phani Wunnava, Middlebury College
+* 2020 – 2021: Research Assistant, Andrew Fieldhouse, Middlebury College
+
+Teaching Experience
+======
+Middlebury College
+* 2019: Calculus II (Grader)
+* 2021: Microeconomic Theory (TA)
+* 2021: Introductory Microeconomics (Grader, TA)
+* 2022: Regression Analysis (Grader, TA)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Python, Stata, R, Matlab, QGIS, SQL, SAS, LaTeX, Git
+* Languages: English (Fluent), Vietnamese (Native)
 
-Publications
+References
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Professor Jessie Handbury, The Wharton School, University of Pennsylvania — handbury@wharton.upenn.edu
+* Professor Antoine Levy, Haas School of Business, UC Berkeley — levya@berkeley.edu
+* Professor Andrew Fieldhouse, Mays Business School, Texas A&M University — afieldhouse@mays.tamu.edu
+* Professor Amanda Gregg, Department of Economics, Middlebury College — agregg@middlebury.edu
