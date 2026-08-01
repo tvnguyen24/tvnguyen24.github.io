@@ -28,7 +28,7 @@ Working Papers
 
 Works in Progress
 ======
-* "Pay-as-you-go Pensions in Spatial Equilibrium" (with Antoine Levy)
+* "Pay-as-you-go Pensions in Spatial Equilibrium" (with [Antoine Levy](https://sites.google.com/view/antoine-levy/home/research))
 
 Fellowships & Awards
 ======
