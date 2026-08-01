@@ -1,36 +1,22 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Working Papers</h2>
+<hr />
+<ul>
+  <li>
+    <a href="https://www.dropbox.com/scl/fi/2w1tugxcr2vgs86l8gi90/Nguyen_RRS.pdf?rlkey=loxxjz6zpw5cl46bm9gnh1ro3&st=gvabg517&e=1&dl=0">The Responses of Retail Spending and Real Consumption to a Housing Wealth Shock: Evidence, Dynamics, and Potential Mechanisms</a> (2024)
+  </li>
+</ul>
 
-
-
+<h2>Works in Progress</h2>
+<hr />
+<ul>
+  <li>Pay-as-you-go Pensions in Spatial Equilibrium (with Antoine Levy)</li>
+</ul>

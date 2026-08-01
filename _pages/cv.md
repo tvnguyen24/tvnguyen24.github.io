@@ -24,7 +24,7 @@ Research Fields
 
 Working Papers
 ======
-* "The Responses of Retail Spending and Real Consumption to a Housing Wealth Shock: Evidence, Dynamics, and Potential Mechanisms" (2024)
+* ["The Responses of Retail Spending and Real Consumption to a Housing Wealth Shock: Evidence, Dynamics, and Potential Mechanisms"](https://www.dropbox.com/scl/fi/2w1tugxcr2vgs86l8gi90/Nguyen_RRS.pdf?rlkey=loxxjz6zpw5cl46bm9gnh1ro3&st=gvabg517&e=1&dl=0) (2024)
 
 Works in Progress
 ======
