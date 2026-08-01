@@ -9,6 +9,6 @@ redirect_from:
 
 I'm currently a PhD student in Economics at Wharton, University of Pennsylvania. Previously, I was a Pre-doctoral research assistant at the Fisher Center for Real Estate + Urban Economics, Haas School of Business, UC Berkeley.
 
-My academic interests include spatial economics and housing policy using tools from trade, IO, and public finance.
+My academic interests include **spatial economics** and **housing policy** using tools from **trade**, **IO**, and **public finance**.
 
 I graduated with double majors in Economics and Mathematics from Middlebury College, VT in 2022.
