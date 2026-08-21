@@ -26,10 +26,11 @@ You can reach me at [nguyen24@wharton.upenn.edu](mailto:nguyen24@wharton.upenn.e
 .pub-abs > summary { display: inline; list-style: none; cursor: pointer; color: var(--global-link-color); }
 .pub-abs > summary::-webkit-details-marker { display: none; }
 .pub-abs-text { display: block; font-size: 0.9em; color: #6f777d; margin-top: 0.5em; text-align: justify; max-width: 48em; }
+.section-rule { border: 0; border-top: 2px solid var(--global-text-color); margin: 1.8em 0 0.7em; }
 </style>
 
+<hr class="section-rule" />
 <h2>Working Papers</h2>
-<hr />
 
 <div class="pub">
   <div class="pub-title">"The Responses of Retail Spending and Real Consumption to a Housing Wealth Shock: Evidence, Dynamics, and Potential Mechanisms"</div>
@@ -38,8 +39,8 @@ You can reach me at [nguyen24@wharton.upenn.edu](mailto:nguyen24@wharton.upenn.e
   </div>
 </div>
 
+<hr class="section-rule" />
 <h2>Works in Progress</h2>
-<hr />
 
 <div class="pub">
   <div class="pub-title">"Pay-as-you-go Pensions in Spatial Equilibrium"</div>
