@@ -13,6 +13,8 @@ My academic interests include **spatial/environmental economics**, **industrial 
 
 I graduated with double majors in Economics and Mathematics from Middlebury College, VT in 2022.
 
+You can reach me at [nguyen24@wharton.upenn.edu](mailto:nguyen24@wharton.upenn.edu).
+
 <style>
 .paper-btn {
   display: inline-block;
@@ -53,5 +55,3 @@ details.paper > summary::-webkit-details-marker { display: none; }
 <ul>
   <li>Pay-as-you-go Pensions in Spatial Equilibrium (with <a href="https://sites.google.com/view/antoine-levy/home/research">Antoine Levy</a>)</li>
 </ul>
-
-You can reach me at [nguyen24@wharton.upenn.edu](mailto:nguyen24@wharton.upenn.edu).
