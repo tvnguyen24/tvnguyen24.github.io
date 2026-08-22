@@ -19,19 +19,15 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
-<!-- Dark green accent override -->
+<!-- Force light mode (dark toggle removed) -->
+<script>try { localStorage.setItem('theme', 'light'); } catch (e) {}</script>
+
+<!-- Hunter green accent override -->
 <style>
   :root {
     --global-link-color         : #355e3b !important;
     --global-link-color-hover   : #24402a !important;
     --global-link-color-visited : #4a7a52 !important;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --global-link-color         : #7fae86 !important;
-      --global-link-color-hover   : #a3c9a8 !important;
-      --global-link-color-visited : #7fae86 !important;
-    }
   }
 </style>
 
